@@ -32,14 +32,14 @@
     [
         "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1551993819124,
+            "changeTime": 1551993819124,
+            "contentHash": "70689f0d5996e8bf8b640ea3fd0b99e29f7c1eeb",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1551988367747,
-            "changeTime": 1551988367747,
-            "contentHash": "26700fa385d7435b9658ffa27095dde3388347b1"
+            "state": "u"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1551982730042,
-            "changeTime": 1551982730042,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 192,
+            "modifiedTime": 1551994762316,
+            "changeTime": 1551994762316,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -77,14 +76,13 @@
         {
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1551982997258,
-            "changeTime": 1551982997258,
-            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "size": 320,
+            "modifiedTime": 1551988128018,
+            "changeTime": 1551988128018,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -233,40 +231,859 @@
     [
         "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1551988367764,
             "changeTime": 1551988367764,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1551988398650,
             "changeTime": 1551988398650,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1551988367764,
             "changeTime": 1551988367764,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1551988537312,
+            "changeTime": 1551988537312,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551988537311,
+            "changeTime": 1551988537311,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1551995026399,
+            "changeTime": 1551995026399,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1551988537309,
+            "changeTime": 1551988537309,
+            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1551988625159,
+            "changeTime": 1551988625159,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551988537312,
+            "changeTime": 1551988537312,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551988537311,
+            "changeTime": 1551988537311,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1551988537310,
+            "changeTime": 1551988537310,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551988537310,
+            "changeTime": 1551988537310,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551988537311,
+            "changeTime": 1551988537311,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1551989171677,
+            "changeTime": 1551989171677,
+            "contentHash": "46817054c0ace8c9d63d80cbfbb2cd5bfa7f43d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4956,
+            "modifiedTime": 1551989171681,
+            "changeTime": 1551989171681,
+            "contentHash": "1c64f79287e84cd50c8bb1f12a038f685e48b56c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5296,
+            "modifiedTime": 1551989171684,
+            "changeTime": 1551989171684,
+            "contentHash": "27b7a8c30bef59d75e5453bd7c678a826be577a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4960,
+            "modifiedTime": 1551989171687,
+            "changeTime": 1551989171687,
+            "contentHash": "2fa93b89fcd6ba686502d75dea5eb96a42d8ace4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19086,
+            "modifiedTime": 1551989171697,
+            "changeTime": 1551989171697,
+            "contentHash": "4a8d5cfc1bb36a8e5514289853b9d0ae83dc693d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1551989171677,
+            "changeTime": 1551989171677,
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1551989171697,
+            "changeTime": 1551989171697,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1551991824864,
+            "changeTime": 1551991824864,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1551991594195,
+            "changeTime": 1551991594195,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551991824864,
+            "changeTime": 1551991824864,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1551991872421,
+            "changeTime": 1551991872421,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1551991824862,
+            "changeTime": 1551991824862,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 112,
+            "modifiedTime": 1551991988032,
+            "changeTime": 1551991988032,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551991824865,
+            "changeTime": 1551991824865,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551991824864,
+            "changeTime": 1551991824864,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1551992737827,
+            "changeTime": 1551992737827,
+            "contentHash": "d0ad2bce14cef19534a5f4853c7b94885491efa4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551991824863,
+            "changeTime": 1551991824863,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551991824863,
+            "changeTime": 1551991824863,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551991594195,
+            "changeTime": 1551991594195,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 122,
+            "modifiedTime": 1551991742792,
+            "changeTime": 1551991742792,
+            "contentHash": "ec7c31bb2adfad823ca201c24ed89618a3d26301",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1551991594193,
+            "changeTime": 1551991594193,
+            "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1551991770576,
+            "changeTime": 1551991770576,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551991594196,
+            "changeTime": 1551991594196,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551991594195,
+            "changeTime": 1551991594195,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1551991594193,
+            "changeTime": 1551991594193,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551991594193,
+            "changeTime": 1551991594193,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551991594194,
+            "changeTime": 1551991594194,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1551993819126,
+            "changeTime": 1551993819126,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1551993819171,
+            "changeTime": 1551993819171,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1551993819172,
+            "changeTime": 1551993819172,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1551993819172,
+            "changeTime": 1551993819172,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1551993819173,
+            "changeTime": 1551993819173,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1551993819173,
+            "changeTime": 1551993819173,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 401270,
+            "modifiedTime": 1551993819174,
+            "changeTime": 1551993819174,
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 764787,
+            "modifiedTime": 1551993819175,
+            "changeTime": 1551993819175,
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 402995,
+            "modifiedTime": 1551993819177,
+            "changeTime": 1551993819177,
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 764879,
+            "modifiedTime": 1551993819178,
+            "changeTime": 1551993819178,
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14106,
+            "modifiedTime": 1551993819179,
+            "changeTime": 1551993819179,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 141125,
+            "modifiedTime": 1551993819180,
+            "changeTime": 1551993819180,
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 192417,
+            "modifiedTime": 1551993819180,
+            "changeTime": 1551993819180,
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1551993819170,
+            "changeTime": 1551993819170,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1551993819173,
+            "changeTime": 1551993819173,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1551993819180,
+            "changeTime": 1551993819180,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1551994762320,
+            "changeTime": 1551994762320,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551994762319,
+            "changeTime": 1551994762319,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1551994803249,
+            "changeTime": 1551994803249,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1551994762317,
+            "changeTime": 1551994762317,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 43,
+            "modifiedTime": 1551994942333,
+            "changeTime": 1551994942333,
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551994762320,
+            "changeTime": 1551994762320,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551994762319,
+            "changeTime": 1551994762319,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1551994859901,
+            "changeTime": 1551994859901,
+            "contentHash": "195c0a2d32ab26c8b56292e40da9c92711dc3fab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551994762318,
+            "changeTime": 1551994762318,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551994762318,
+            "changeTime": 1551994762318,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
